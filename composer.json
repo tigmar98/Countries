@@ -1,0 +1,8 @@
+{
+    "name": "tigmar98/countries",
+    "description": "The List of Countries",
+    "type": "project",
+    "require": {
+        "sameer-shelavale/php-countries-array": "^1.0"
+    }
+}
